@@ -6,7 +6,7 @@ import path from 'path';
 import routes from './routes';
 import { setupWebsocket } from './websocket';
 
-const uri = "mongodb+srv://dev_tom:NsxYNsgynnnSdrsb@cluster0.nfqjfyn.mongodb.net/?retryWrites=true&w=majority";
+const uri = "";
 
 const app = express()
 
